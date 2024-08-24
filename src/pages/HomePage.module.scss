@@ -1,0 +1,40 @@
+/* src/pages/HomePage.module.scss */
+.home-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    min-height: 100vh;
+  
+    .header {
+      text-align: center;
+      margin-bottom: 30px;
+  
+      h1 {
+        font-size: 2.5rem;
+        color: #333;
+      }
+  
+      h2 {
+        font-size: 1.8rem;
+        color: #555;
+        margin-top: 10px;
+        margin-bottom: 20px;
+      }
+    }
+  
+    .form-container {
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      margin-bottom: 30px;
+    }
+  
+    .project-list {
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+    }
+  }
+  
